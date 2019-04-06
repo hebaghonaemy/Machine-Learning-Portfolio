@@ -1,2 +1,3 @@
 # Machine-Learning-Portfolio
-Portfolio of machine learning projects completed by me for academic, self learning, and hobby purposes.
+
+[Creating customer segments](https://github.com/hebaghonaemy/customer_segments)
