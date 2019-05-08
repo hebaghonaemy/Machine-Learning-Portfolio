@@ -3,4 +3,5 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Contents
 
-+ [Creating customer segments](https://github.com/hebaghonaemy/customer_segments)
++ Machine Learning
+- [Creating customer segments](https://github.com/hebaghonaemy/customer_segments)
